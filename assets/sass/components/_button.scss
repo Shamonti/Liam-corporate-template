@@ -1,0 +1,9 @@
+.btn-txt {
+  background-color: $color-primary !important;
+  color: $color-black;
+  font-size: $default-font-size;
+
+  &:focus {
+    box-shadow: none;
+  }
+}
